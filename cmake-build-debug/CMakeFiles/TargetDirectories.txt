@@ -1,0 +1,11 @@
+D:/CLionProjects/ir_receiver/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir
+D:/CLionProjects/ir_receiver/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir
+D:/CLionProjects/ir_receiver/cmake-build-debug/CMakeFiles/ir_receiver.dir
+D:/CLionProjects/ir_receiver/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir
+D:/CLionProjects/ir_receiver/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir
+D:/CLionProjects/ir_receiver/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+D:/CLionProjects/ir_receiver/cmake-build-debug/CMakeFiles/PLATFORMIO_TEST.dir
+D:/CLionProjects/ir_receiver/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir
+D:/CLionProjects/ir_receiver/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+D:/CLionProjects/ir_receiver/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/ir_receiver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
